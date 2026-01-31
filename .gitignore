@@ -28,6 +28,7 @@
 /backend/build/
 /backend/*.egg-info/
 /backend/*/__pycache__
+/backend/staticfiles/
 
 # Python
 __pycache__/
