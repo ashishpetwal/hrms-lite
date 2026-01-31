@@ -1,0 +1,14 @@
+# Django
+Django>=4.2,<5.0
+djangorestframework>=3.14.0
+django-cors-headers>=4.3.0
+
+# Production server
+gunicorn>=21.2.0
+whitenoise>=6.6.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Database (PostgreSQL in production)
+psycopg2-binary>=2.9.9
