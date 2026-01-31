@@ -4,8 +4,8 @@ A lightweight Human Resource Management System (HRMS) web application for managi
 
 ## 🚀 Live Demo
 
-- **Frontend**: 
-- **Backend API**: 
+- **Frontend**: https://hrms.ashishpetwal.com
+- **Backend API**: https://hrms-lite-37yg.onrender.com
 
 ## 📋 Features
 
